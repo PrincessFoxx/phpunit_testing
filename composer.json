@@ -1,0 +1,14 @@
+{
+    "name": "princess_foxx/phpunit_testing",
+    "autoload": {
+        "psr-4": {
+            "PrincessFoxx\\PhpunitTesting\\": "src/"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^10"
+    },
+    "scripts": {
+        "test": "./vendor/bin/phpunit"
+    }
+}
