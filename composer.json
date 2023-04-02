@@ -1,5 +1,8 @@
 {
     "name": "princess_foxx/phpunit_testing",
+    "description": "Testing PHPUnit",
+    "type": "project",
+    "license": "AGPL-1.0-or-later",
     "autoload": {
         "psr-4": {
             "PrincessFoxx\\PhpunitTesting\\": "src/"
